@@ -1,7 +1,5 @@
-% Gokberk Cakiroglu
-% 91190000183, Electrical Electronics Engineering
 % Optimization Theory
-% Class Assignment  - Steepest Descent Algorithm
+% Steepest Descent Algorithm
 % 28/11/2020
 
 
