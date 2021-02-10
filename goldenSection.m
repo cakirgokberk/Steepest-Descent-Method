@@ -1,8 +1,6 @@
 function [x1,x2,fx1,fx2,tolerance] = goldenSection(func,xLowerLimit,xUpperLimit,xFinalPoint)
-% Gokberk Cakiroglu
-% 91190000183, Electrical Electronics Engineering
 % Optimization Theory
-% Class Assignment  - Golden Section Search
+% Golden Section Search
 % 19/11/2020
 
 
