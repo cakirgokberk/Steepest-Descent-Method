@@ -1,8 +1,6 @@
 function [Y,X,iter] = steepestDescent(f,gradient,N_max,x0,e1,e2,e3,lowerLimit,upperLimit) 
-% Gokberk Cakiroglu
-% 91190000183, Electrical Electronics Engineering
 % Optimization Theory
-% Class Assignment  - Steepest Descent Algorithm
+% Steepest Descent Algorithm
 % 28/11/2020
 
 
